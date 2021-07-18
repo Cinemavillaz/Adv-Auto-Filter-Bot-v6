@@ -4,20 +4,18 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
+    START_TEXT = """<b>🙋‍♂️Hey {}എന്തുണ്ട് !!</b>
 
 <b>I am a Pro AutoFilterBot V2....😜</b>
 
-<b>Make me an admin for your group and channel then connect me....🎉</b>
+<b>I am Being Maintained By @youcant_call_Me_leo....🎉</b>
 
-<b>🙂Watch the video below to build an Pro Autofilter bot V2 like me...</b>
+<b>Bot's Source code is 🔐...</b>
 
-<b>Subscribe to the update channel to learn about my updates and activity...</b>
-
-<b>Press /help to know about available commands🤪</b>"""    
+<b>You Can't add me in ur Group 🤣/he</b>"""    
     
     HELP_TEXT = """
-<b>😉How To Use Me!😉?</b>
+<b>😉How To Use Me!😉<b>
 
 <i>
 -> Add Me To Any Group And Make Me Admin
@@ -46,18 +44,18 @@ class Translation(object):
             
             -> <code>Status</code> - <b>Button Will Shows The Stats Of Your Channel</b>
             
-<b><a href="https://t.me/Mo_Tech_YT">© Mo Tech YT</a></b>
+<b><a href="https://t.me/cv_songs">© Click Here </a></b>
 """
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
 
-<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/AlbertEinstein_TG">👤Albert Einstein</a></b>
+<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/youcant_call_Me_leo">Lionel Messi</a></b>
 
-<b>➥ 👨‍💻Editor</b> : <b><a href="https://t.me/MRk_YT">👤Mrk YT</a></b>
+<b>➥ 👨‍💻Editor</b> : <bPro-Auto-Filter-Bot-V2e/Cv_groupAdmin2</a></b>
 
 <b>➥ 🗣️Language</b> : <b>Python3<b>
 
 <b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
 
-<b>➥ 📖Source Code</b> : <b><a href="https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2">💥Click Me</a></b>
+<b>➥ 📖Source Code</b> : <b><a href="https://t.me/kurachkanjiedukkatte/8">Click Here 😓</a></b>
 """
