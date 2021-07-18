@@ -3,12 +3,12 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2/stargazers">
+  <a href="https://github.com/Cinemavillaz/Adv-Auto-Filter-Bot-v6/stargazers">
     <img src="https://img.shields.io/github/stars/MoTechYT/Pro-Auto-Filter-Bot-V2?style=social">
 
   </a>
   
-  <a href="https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2/fork">
+  <a href="https://github.com/Cinemavillaz/Adv-Auto-Filter-Bot-v6/fork">
     <img src="https://img.shields.io/github/forks/MoTechYT/Pro-Auto-Filter-Bot-V2?label=Fork&style=social">
 
   </a>  
@@ -17,12 +17,11 @@
 ##### Deploy
 You can deploy this bot anywhere.
 
-**[Watch Deploying Tutorial...](https://youtu.be/OTqZmADyOjU)**
 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/Cinemavillaz/Adv-Auto-Filter-Bot-v6/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -31,7 +30,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2/tree/blob/main
+git clone https://github.com/Cinemavillaz/Adv-Auto-Filter-Bot-v6/tree/blob/main
 cd Pro-Auto-Filter-Bot-V2-ReMaster
 pip3 install -r requirements.txt
 # Change The Vars Of bot/__init__.py File Accordingly
@@ -86,7 +85,7 @@ python3 -m bot
 [![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/mrk_yt)
 [![Join Channel !](https://badgen.net/badge/🔊%20Join%20/Channel/Black)](https://telegram.dog/mo_Tech_yt)
 
-Join Our [Telegram Group](https://www.telegram.dog/Mo_Tech_Group) For Support/Assistance And Our [Channel](https://www.telegram.dog/Mo_Tech_YT) For Updates.   
+Join Our [Telegram Group](https://www.telegram.dog/cv_group1) For Support/Assistance And Our [Channel](https://www.telegram.dog/all_movies_channelz) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 Do Fork And Star The Repository If You Liked It.
