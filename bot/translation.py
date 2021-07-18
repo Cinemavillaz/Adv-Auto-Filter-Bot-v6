@@ -12,7 +12,7 @@ class Translation(object):
 
 <b>Bot's Source code is 🔐...</b>
 
-<b>You Can't add me in ur Group 🤣/he</b>"""    
+<b>You Can't add me in ur Group 🤣</b>"""    
     
     HELP_TEXT = """
 <b>😉How To Use Me!😉<b>
@@ -44,7 +44,7 @@ class Translation(object):
             
             -> <code>Status</code> - <b>Button Will Shows The Stats Of Your Channel</b>
             
-<b><a href="https://t.me/cv_songs">© Click Here </a></b>
+<b><a href="https://t.me/cv_songs">©Click Here</a></b>
 """
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
